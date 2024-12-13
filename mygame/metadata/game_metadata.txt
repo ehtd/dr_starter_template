@@ -1,5 +1,5 @@
-devid=iamernesto
-devtitle=Ernesto Torres
+devid=<replace_me>
+devtitle=<replace_me>
 gameid=<replace_me>
 gametitle=<replace_me>
 version=0.1
