@@ -20,9 +20,15 @@ open-source-licenses.txt
 README.txt
 VERSION.txt
 eula.txt
-dragonruby
 dragonruby.png
-dragonruby-httpd
-dragonruby-publish
 dragonruby-controller.png
 
+# Mac/Linux
+dragonruby
+dragonruby-httpd
+dragonruby-publish
+
+# Windows
+dragonruby.exe
+dragonruby-httpd.exe
+dragonruby-publish.exe
